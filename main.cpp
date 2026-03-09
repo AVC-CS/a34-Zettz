@@ -11,5 +11,5 @@ int main()
   cout << fixed << setprecision(2);
   cout << "The average rainfall for " 
   << month1 << ", " << month2 << ", and " << month3 
-  << " is " << avg << " inches." endl;
+  << " is " << avg << " inches." << endl;
 }
